@@ -7,6 +7,8 @@ A beautiful, cross-platform desktop application that helps you maintain healthy 
 ![Node.js](https://img.shields.io/badge/Node.js-18+-brightgreen)
 ![Electron](https://img.shields.io/badge/Electron-25+-blue)
 
+
+
 ## ✨ Features
 
 - **🎯 Smart Usage Tracking** - Monitors continuous computer usage with intelligent idle detection
